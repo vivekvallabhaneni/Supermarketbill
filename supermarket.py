@@ -67,7 +67,7 @@ for i in range(len(items)):
             print(75*"-")
             print(50*" ",'finalAmount:','Rs',finalamount)
             print(75*"-")
-            print(20*" ","Thanks for visitin")
+            print(20*" ","Thanks for visiting")
             print(75*"-")
 
 
